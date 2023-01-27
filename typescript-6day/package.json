@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "startLdev": "npx nodemon -q"
+    "start:dev": "npx nodemon -q"
   },
   "keywords": [],
   "author": "",
